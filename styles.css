@@ -52,3 +52,28 @@ img {
 .list-caption{
     font-style: italic;
 }
+
+.dark {
+    background-color: #333;
+    color: rgb(236, 236, 236);
+}
+
+.dark h2{
+    letter-spacing: 0.15em;
+    font-size: 18px;
+    font-weight:400;
+    margin-top: 15px;
+    color: rgb(160, 212, 237);
+}
+
+.dark h1{
+    font-size: 40px;
+    letter-spacing: 3px;
+    font-weight:normal;
+    color:white;
+}
+
+.dark select{
+    background-color: gray;
+    color: white;
+}
